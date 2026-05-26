@@ -1,0 +1,6 @@
+{
+  "name": "Tor Command Prompt",
+  "description": "An interactive command-prompt terminal simulation to anonymize internet surfing, trace Tor routing circuits, search .onion indexes, and configure local Windows CMD Tor proxies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
